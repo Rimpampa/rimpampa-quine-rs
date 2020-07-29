@@ -1,5 +1,5 @@
 # Rimpampa's quines in Rust
-Some quines I made when I was inspired/bored
+I've came across quines while watching [The Art of Code](https://www.youtube.com/watch?v=gdSlcxxYAA8) and after some time I decided to try making my own ones in Rust.
 
 # List
 * [first.rs](/first.rs): my first (*successful*) try at writing a quine
